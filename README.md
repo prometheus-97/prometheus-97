@@ -78,6 +78,21 @@ A distributed video processing platform that accepts large uploads, transcodes t
 **Currently Learning**<br/>
 <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,prometheus,grafana&theme=dark" alt="Kubernetes, AWS, Terraform, Prometheus, Grafana" />
 
+**Next Direction: LLM Inference**<br/>
+<img src="https://skillicons.dev/icons?i=python,go,pytorch&theme=dark" alt="Python, Go, PyTorch" />
+
+<sub>Serving (primary focus)</sub><br/>
+<img src="https://img.shields.io/badge/vLLM-191724?style=for-the-badge&logoColor=e0def4" alt="vLLM" />
+<img src="https://img.shields.io/badge/SGLang-191724?style=for-the-badge&logoColor=e0def4" alt="SGLang" />
+<img src="https://img.shields.io/badge/Triton_Inference_Server-191724?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA Triton Inference Server" />
+<img src="https://img.shields.io/badge/KServe-191724?style=for-the-badge&logoColor=e0def4" alt="KServe" />
+
+<sub>Engines (project work)</sub><br/>
+<img src="https://img.shields.io/badge/KV_Cache-191724?style=for-the-badge&logoColor=e0def4" alt="KV cache" />
+<img src="https://img.shields.io/badge/Continuous_Batching-191724?style=for-the-badge&logoColor=e0def4" alt="Continuous batching" />
+<img src="https://img.shields.io/badge/Paged_Attention-191724?style=for-the-badge&logoColor=e0def4" alt="Paged attention" />
+<img src="https://img.shields.io/badge/Triton_Kernels_(basics)-191724?style=for-the-badge&logoColor=e0def4" alt="OpenAI Triton kernels, basics" />
+
 </div>
 
 ---
